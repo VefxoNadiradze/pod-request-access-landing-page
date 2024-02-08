@@ -91,6 +91,7 @@ form {
 }
 
 .Error {
+  height:21px;
   padding-top: 9px;
   padding-left: 32px;
   color: rgb(251, 62, 62);
